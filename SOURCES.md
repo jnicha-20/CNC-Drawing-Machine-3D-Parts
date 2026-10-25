@@ -1,4 +1,4 @@
-1. Original Design Reference
+Original Design Reference
    
 Project Title: Build a simple 3D printed CNC plotter machine
 Original Creator: Mert Kilic
@@ -24,6 +24,6 @@ Attribution
 The original project is credited as a design reference. The SolidWorks models and modifications documented here represent our team's work to adapt the mechanical components to our CNC Pen Plotter.
 Please refer to the original project page for its licensing terms. Any redistribution of derivative designs should comply with the applicable license requirements.
 
-2. Main CNC Pen Plotter Project
+Main CNC Pen Plotter Project
 For the complete project, including software, electronics, GRBL configuration, project documentation, and drawing demonstrations, visit:
 https://github.com/WutthapanyaS/CNC-Drawing-Machine
