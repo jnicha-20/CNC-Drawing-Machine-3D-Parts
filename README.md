@@ -29,3 +29,8 @@ Credits
 See SOURCES.md for design references and acknowledgments.
 License
 Unless a license is specified, all rights are reserved by the respective creators. Please contact the repository owner before redistributing or reusing these files.
+
+This repository contains the 3D parts and mechanical references for our CNC Drawing Machine.
+For the complete project, including software, electronics, GRBL configuration, project report, and drawing demonstrations, visit:
+[Main CNC Drawing Machine Project](https://github.com/WutthapanyaS/CNC-Drawing-Machine)
+The main project is maintained by [@WutthapanyaS](https://github.com/WutthapanyaS).
