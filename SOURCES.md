@@ -1,12 +1,8 @@
 Original Design Reference
-   
-Project Title: Build a simple 3D printed CNC plotter machine
-
-Original Creator: Mert Kilic
-
-Platform: PCBWay Community
-
-Original Project: https://www.pcbway.com/project/shareproject/Build_a_simple_3D_printed_CNC_plotter_machine_dfd8b2d7.html
+   Project Title: Build a simple 3D printed CNC plotter machine
+   Original Creator: Mert Kilic
+   Platform: PCBWay Community
+   Original Project: https://www.pcbway.com/project/shareproject/Build_a_simple_3D_printed_CNC_plotter_machine_dfd8b2d7.html
 
 Reference and Modeling Approach
 
